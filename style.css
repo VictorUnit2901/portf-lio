@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-image: linear-gradient(to right, #0338F4, #E025CE);
+    background-position: center; 
+    background-size: cover; 
+  }
+  
+  header {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #848dbe; 
+    color: #fff; 
+  }
+  
+  .cargo {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .contato {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contato li {
+    margin-right: 20px;
+  }
+  
+  .contato a {
+    color: #3a3535; 
+    text-decoration: none;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    margin: 10px;
+    padding: 1
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #fff; 
+  }
+  
+  .historico {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .historico li {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  .habilidades-lista {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .habilidades-lista li {
+
+    margin: 10px;
+    padding: 1
+  }
+
+  .idiomas-lista {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .idiomas-lista li {
+    margin: 10px;
+    padding: 1
+  }
+  
+  .cabeçalho img {
+    width: 80px;
+    margin-right: 20px;
+  }
